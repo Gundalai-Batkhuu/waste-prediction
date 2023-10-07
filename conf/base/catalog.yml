@@ -49,7 +49,10 @@ preprocessed_data_with_type_classification:
     filepath: data/02_intermediate/preprocessed_data_with_type_classification.csv
     layer: intermediate
 
-
+encoded_data:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/encoded_data.csv
+    layer: intermediate
 
 
 

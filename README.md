@@ -1,5 +1,24 @@
 # Monash datahack 2023
 
+## PLAN
+### Data exploration
+- Data outlier analysis
+- Missing values (heatmap etc
+### Modelling
+#### Regression
+- Decision tree
+- Random forest
+- Ada boosting
+- GradientBoostingRegressor
+- VotingRegressor
+- XGboost
+#### Time series
+- FB Propet 
+
+### Optimisation
+- sklearn grid searching
+
+
 ## Overview
 
 This is your new Kedro project, which was generated using `Kedro 0.18.1`.
