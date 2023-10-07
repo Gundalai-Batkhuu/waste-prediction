@@ -6,7 +6,7 @@
 - Missing values (heatmap etc
 ### Modelling
 #### Regression
-- Decision tree
+
 - Random forest
 - Ada boosting
 - GradientBoostingRegressor
