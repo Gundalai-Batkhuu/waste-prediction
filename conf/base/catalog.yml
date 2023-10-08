@@ -54,6 +54,11 @@ preprocessed_data_with_total_classification:
     filepath: data/02_intermediate/preprocessed_data_with_total_classification.csv
     layer: intermediate
 
+preprocessed_data_not_recycled:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/preprocessed_data_not_recycled.csv
+    layer: intermediate
+
 encoded_data_with_type_classification:
     type: pandas.CSVDataSet
     filepath: data/02_intermediate/encoded_data_with_type_classification.csv
@@ -69,7 +74,10 @@ encoded_data_without_zero_values:
     filepath: data/02_intermediate/encoded_data_without_zero_values.csv
     layer: intermediate
 
-
+encoded_data_not_recycled:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/encoded_data_not_recycled.csv
+    layer: intermediate
 
 
 
