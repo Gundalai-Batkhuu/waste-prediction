@@ -1,5 +1,4 @@
 # https://365datascience.com/tutorials/machine-learning-tutorials/how-to-deploy-machine-learning-models-with-python-and-streamlit/#5
-
 import streamlit as st
 import numpy as np
 from prediction import predict
@@ -82,7 +81,7 @@ if st.button('Predict waste amount'):
     result_float = float(result[0])
 
     # Round the number to a specific number of decimal places (e.g., 2)
-    rounded_result = round(result_float, 3)
+    rounded_result = max(round(result_float, 3), 0)
 
     # Increase the font size and display the rounded number with text
     st.write(f"<span style='font-size: 36px;'>{rounded_result} tonnes of waste</span>", unsafe_allow_html=True)
