@@ -17,7 +17,7 @@ selected_year = st.slider('Year', 2020, 2030)
 with col1:
     st.text('Waste characteristics')
 
-    jurisdiction = ['ACT', 'Australia', 'NSW', 'NT', 'Qld', 'SA', 'Tas', 'Vic', 'WA']
+    jurisdiction = ['ACT', 'NSW', 'NT', 'Qld', 'SA', 'Tas', 'Vic', 'WA']
     selected_jurisdiction = st.selectbox("Select a state", jurisdiction)
 
     waste_category = ['Biosolids', 'Building and demolition materials', 'Glass',
