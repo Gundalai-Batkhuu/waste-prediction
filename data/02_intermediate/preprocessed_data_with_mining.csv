@@ -1,0 +1,145 @@
+Jurisdiction,Category,Type,Management,Fate,y,ds,Sub-stream
+Australia,Mining,Bauxite mining,Landfill,Disposal,5,2021-12-31,8
+Australia,Mining,Bauxite mining,Other disposal,Disposal,0,2021-12-31,8
+Australia,Mining,Bauxite mining,Recycling,Recycling,0,2021-12-31,8
+Australia,Mining,Bauxite mining,Unknown,Unknown,0,2021-12-31,8
+Australia,Mining,Bauxite mining,Landfill,Disposal,5,2021-12-31,9
+Australia,Mining,Bauxite mining,Other disposal,Disposal,0,2021-12-31,9
+Australia,Mining,Bauxite mining,Recycling,Recycling,0,2021-12-31,9
+Australia,Mining,Bauxite mining,Unknown,Unknown,0,2021-12-31,9
+Australia,Mining,Coal mining,Landfill,Disposal,2001,2021-12-31,8
+Australia,Mining,Coal mining,Other disposal,Disposal,24595032,2021-12-31,8
+Australia,Mining,Coal mining,Recycling,Recycling,48,2021-12-31,8
+Australia,Mining,Coal mining,Unknown,Unknown,235,2021-12-31,8
+Australia,Mining,Coal mining,Landfill,Disposal,2001,2021-12-31,9
+Australia,Mining,Coal mining,Other disposal,Disposal,24595032,2021-12-31,9
+Australia,Mining,Coal mining,Recycling,Recycling,48,2021-12-31,9
+Australia,Mining,Coal mining,Unknown,Unknown,235,2021-12-31,9
+Australia,Mining,Copper ore mining,Landfill,Disposal,20,2021-12-31,8
+Australia,Mining,Copper ore mining,Other disposal,Disposal,68817700,2021-12-31,8
+Australia,Mining,Copper ore mining,Recycling,Recycling,0,2021-12-31,8
+Australia,Mining,Copper ore mining,Unknown,Unknown,0,2021-12-31,8
+Australia,Mining,Copper ore mining,Landfill,Disposal,20,2021-12-31,9
+Australia,Mining,Copper ore mining,Other disposal,Disposal,68817700,2021-12-31,9
+Australia,Mining,Copper ore mining,Recycling,Recycling,0,2021-12-31,9
+Australia,Mining,Copper ore mining,Unknown,Unknown,0,2021-12-31,9
+Australia,Mining,Gold ore mining,Landfill,Disposal,147,2021-12-31,8
+Australia,Mining,Gold ore mining,Other disposal,Disposal,241956648,2021-12-31,8
+Australia,Mining,Gold ore mining,Recycling,Recycling,3,2021-12-31,8
+Australia,Mining,Gold ore mining,Unknown,Unknown,1,2021-12-31,8
+Australia,Mining,Gold ore mining,Landfill,Disposal,147,2021-12-31,9
+Australia,Mining,Gold ore mining,Other disposal,Disposal,241956648,2021-12-31,9
+Australia,Mining,Gold ore mining,Recycling,Recycling,3,2021-12-31,9
+Australia,Mining,Gold ore mining,Unknown,Unknown,1,2021-12-31,9
+Australia,Mining,Iron ore mining,Landfill,Disposal,561,2021-12-31,8
+Australia,Mining,Iron ore mining,Other disposal,Disposal,146187373,2021-12-31,8
+Australia,Mining,Iron ore mining,Recycling,Recycling,0,2021-12-31,8
+Australia,Mining,Iron ore mining,Unknown,Unknown,3,2021-12-31,8
+Australia,Mining,Iron ore mining,Landfill,Disposal,561,2021-12-31,9
+Australia,Mining,Iron ore mining,Other disposal,Disposal,146187373,2021-12-31,9
+Australia,Mining,Iron ore mining,Recycling,Recycling,0,2021-12-31,9
+Australia,Mining,Iron ore mining,Unknown,Unknown,3,2021-12-31,9
+Australia,Mining,Mineral sand mining,Landfill,Disposal,5,2021-12-31,8
+Australia,Mining,Mineral sand mining,Other disposal,Disposal,4418783,2021-12-31,8
+Australia,Mining,Mineral sand mining,Recycling,Recycling,0,2021-12-31,8
+Australia,Mining,Mineral sand mining,Unknown,Unknown,5350,2021-12-31,8
+Australia,Mining,Mineral sand mining,Landfill,Disposal,5,2021-12-31,9
+Australia,Mining,Mineral sand mining,Other disposal,Disposal,4418783,2021-12-31,9
+Australia,Mining,Mineral sand mining,Recycling,Recycling,0,2021-12-31,9
+Australia,Mining,Mineral sand mining,Unknown,Unknown,5350,2021-12-31,9
+Australia,Mining,Nickel ore mining,Landfill,Disposal,61,2021-12-31,8
+Australia,Mining,Nickel ore mining,Other disposal,Disposal,30191357,2021-12-31,8
+Australia,Mining,Nickel ore mining,Recycling,Recycling,0,2021-12-31,8
+Australia,Mining,Nickel ore mining,Unknown,Unknown,962,2021-12-31,8
+Australia,Mining,Nickel ore mining,Landfill,Disposal,61,2021-12-31,9
+Australia,Mining,Nickel ore mining,Other disposal,Disposal,30191357,2021-12-31,9
+Australia,Mining,Nickel ore mining,Recycling,Recycling,0,2021-12-31,9
+Australia,Mining,Nickel ore mining,Unknown,Unknown,962,2021-12-31,9
+Australia,Mining,Oil and gas extraction,Landfill,Disposal,24,2021-12-31,8
+Australia,Mining,Oil and gas extraction,Other disposal,Disposal,2613174,2021-12-31,8
+Australia,Mining,Oil and gas extraction,Recycling,Recycling,3246,2021-12-31,8
+Australia,Mining,Oil and gas extraction,Unknown,Unknown,86,2021-12-31,8
+Australia,Mining,Oil and gas extraction,Landfill,Disposal,24,2021-12-31,9
+Australia,Mining,Oil and gas extraction,Other disposal,Disposal,2613174,2021-12-31,9
+Australia,Mining,Oil and gas extraction,Recycling,Recycling,3246,2021-12-31,9
+Australia,Mining,Oil and gas extraction,Unknown,Unknown,86,2021-12-31,9
+Australia,Mining,Other construction material mining,Landfill,Disposal,0,2021-12-31,8
+Australia,Mining,Other construction material mining,Other disposal,Disposal,0,2021-12-31,8
+Australia,Mining,Other construction material mining,Recycling,Recycling,0,2021-12-31,8
+Australia,Mining,Other construction material mining,Unknown,Unknown,0,2021-12-31,8
+Australia,Mining,Other construction material mining,Landfill,Disposal,0,2021-12-31,9
+Australia,Mining,Other construction material mining,Other disposal,Disposal,0,2021-12-31,9
+Australia,Mining,Other construction material mining,Recycling,Recycling,0,2021-12-31,9
+Australia,Mining,Other construction material mining,Unknown,Unknown,0,2021-12-31,9
+Australia,Mining,Other metal ore mining,Landfill,Disposal,26,2021-12-31,8
+Australia,Mining,Other metal ore mining,Other disposal,Disposal,18131321,2021-12-31,8
+Australia,Mining,Other metal ore mining,Recycling,Recycling,0,2021-12-31,8
+Australia,Mining,Other metal ore mining,Unknown,Unknown,1,2021-12-31,8
+Australia,Mining,Other metal ore mining,Landfill,Disposal,26,2021-12-31,9
+Australia,Mining,Other metal ore mining,Other disposal,Disposal,18131321,2021-12-31,9
+Australia,Mining,Other metal ore mining,Recycling,Recycling,0,2021-12-31,9
+Australia,Mining,Other metal ore mining,Unknown,Unknown,1,2021-12-31,9
+Australia,Mining,Other non-metallic mineral mining and quarrying,Landfill,Disposal,2,2021-12-31,8
+Australia,Mining,Other non-metallic mineral mining and quarrying,Other disposal,Disposal,4726658,2021-12-31,8
+Australia,Mining,Other non-metallic mineral mining and quarrying,Recycling,Recycling,0,2021-12-31,8
+Australia,Mining,Other non-metallic mineral mining and quarrying,Unknown,Unknown,2505,2021-12-31,8
+Australia,Mining,Other non-metallic mineral mining and quarrying,Landfill,Disposal,2,2021-12-31,9
+Australia,Mining,Other non-metallic mineral mining and quarrying,Other disposal,Disposal,4726658,2021-12-31,9
+Australia,Mining,Other non-metallic mineral mining and quarrying,Recycling,Recycling,0,2021-12-31,9
+Australia,Mining,Other non-metallic mineral mining and quarrying,Unknown,Unknown,2505,2021-12-31,9
+Australia,Mining,Silver-lead-zinc ore mining,Landfill,Disposal,10,2021-12-31,8
+Australia,Mining,Silver-lead-zinc ore mining,Other disposal,Disposal,78022430,2021-12-31,8
+Australia,Mining,Silver-lead-zinc ore mining,Recycling,Recycling,640,2021-12-31,8
+Australia,Mining,Silver-lead-zinc ore mining,Unknown,Unknown,4,2021-12-31,8
+Australia,Mining,Silver-lead-zinc ore mining,Landfill,Disposal,10,2021-12-31,9
+Australia,Mining,Silver-lead-zinc ore mining,Other disposal,Disposal,78022430,2021-12-31,9
+Australia,Mining,Silver-lead-zinc ore mining,Recycling,Recycling,640,2021-12-31,9
+Australia,Mining,Silver-lead-zinc ore mining,Unknown,Unknown,4,2021-12-31,9
+Australia,Mining,Bauxite mining,Landfill,Disposal,0,2019-12-31,8
+Australia,Mining,Bauxite mining,Other disposal,Disposal,0,2019-12-31,8
+Australia,Mining,Bauxite mining,Recycling,Recycling,0,2019-12-31,8
+Australia,Mining,Bauxite mining,Unknown,Unknown,0,2019-12-31,8
+Australia,Mining,Coal mining,Landfill,Disposal,2878,2019-12-31,8
+Australia,Mining,Coal mining,Other disposal,Disposal,32250076,2019-12-31,8
+Australia,Mining,Coal mining,Recycling,Recycling,61,2019-12-31,8
+Australia,Mining,Coal mining,Unknown,Unknown,392,2019-12-31,8
+Australia,Mining,Copper ore mining,Landfill,Disposal,18,2019-12-31,8
+Australia,Mining,Copper ore mining,Other disposal,Disposal,49116927,2019-12-31,8
+Australia,Mining,Copper ore mining,Recycling,Recycling,0,2019-12-31,8
+Australia,Mining,Copper ore mining,Unknown,Unknown,0,2019-12-31,8
+Australia,Mining,Gold ore mining,Landfill,Disposal,125,2019-12-31,8
+Australia,Mining,Gold ore mining,Other disposal,Disposal,188738348,2019-12-31,8
+Australia,Mining,Gold ore mining,Recycling,Recycling,1,2019-12-31,8
+Australia,Mining,Gold ore mining,Unknown,Unknown,0,2019-12-31,8
+Australia,Mining,Iron ore mining,Landfill,Disposal,344,2019-12-31,8
+Australia,Mining,Iron ore mining,Other disposal,Disposal,89542381,2019-12-31,8
+Australia,Mining,Iron ore mining,Recycling,Recycling,0,2019-12-31,8
+Australia,Mining,Iron ore mining,Unknown,Unknown,1,2019-12-31,8
+Australia,Mining,Mineral sand mining,Landfill,Disposal,518,2019-12-31,8
+Australia,Mining,Mineral sand mining,Other disposal,Disposal,49499,2019-12-31,8
+Australia,Mining,Mineral sand mining,Recycling,Recycling,0,2019-12-31,8
+Australia,Mining,Mineral sand mining,Unknown,Unknown,10942,2019-12-31,8
+Australia,Mining,Nickel ore mining,Landfill,Disposal,8,2019-12-31,8
+Australia,Mining,Nickel ore mining,Other disposal,Disposal,9638672,2019-12-31,8
+Australia,Mining,Nickel ore mining,Recycling,Recycling,0,2019-12-31,8
+Australia,Mining,Nickel ore mining,Unknown,Unknown,903,2019-12-31,8
+Australia,Mining,Oil and gas extraction,Landfill,Disposal,0,2019-12-31,8
+Australia,Mining,Oil and gas extraction,Other disposal,Disposal,304609,2019-12-31,8
+Australia,Mining,Oil and gas extraction,Recycling,Recycling,3579,2019-12-31,8
+Australia,Mining,Oil and gas extraction,Unknown,Unknown,418,2019-12-31,8
+Australia,Mining,Other construction material mining,Landfill,Disposal,0,2019-12-31,8
+Australia,Mining,Other construction material mining,Other disposal,Disposal,0,2019-12-31,8
+Australia,Mining,Other construction material mining,Recycling,Recycling,0,2019-12-31,8
+Australia,Mining,Other construction material mining,Unknown,Unknown,0,2019-12-31,8
+Australia,Mining,Other metal ore mining,Landfill,Disposal,10,2019-12-31,8
+Australia,Mining,Other metal ore mining,Other disposal,Disposal,19501416,2019-12-31,8
+Australia,Mining,Other metal ore mining,Recycling,Recycling,0,2019-12-31,8
+Australia,Mining,Other metal ore mining,Unknown,Unknown,2,2019-12-31,8
+Australia,Mining,Other non-metallic mineral mining and quarrying,Landfill,Disposal,18,2019-12-31,8
+Australia,Mining,Other non-metallic mineral mining and quarrying,Other disposal,Disposal,4423182,2019-12-31,8
+Australia,Mining,Other non-metallic mineral mining and quarrying,Recycling,Recycling,0,2019-12-31,8
+Australia,Mining,Other non-metallic mineral mining and quarrying,Unknown,Unknown,0,2019-12-31,8
+Australia,Mining,Silver-lead-zinc ore mining,Landfill,Disposal,9,2019-12-31,8
+Australia,Mining,Silver-lead-zinc ore mining,Other disposal,Disposal,46816538,2019-12-31,8
+Australia,Mining,Silver-lead-zinc ore mining,Recycling,Recycling,0,2019-12-31,8
+Australia,Mining,Silver-lead-zinc ore mining,Unknown,Unknown,6,2019-12-31,8

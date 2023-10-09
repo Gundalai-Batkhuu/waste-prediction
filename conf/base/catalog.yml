@@ -59,6 +59,66 @@ preprocessed_data_not_recycled:
     filepath: data/02_intermediate/preprocessed_data_not_recycled.csv
     layer: intermediate
 
+preprocessed_data_08_12_13:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/preprocessed_data_08_12_13.csv
+    layer: intermediate
+
+preprocessed_data_not_08_12_13:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/preprocessed_data_not_08_12_13.csv
+    layer: intermediate
+
+preprocessed_data_with_mining:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/preprocessed_data_with_mining.csv
+    layer: intermediate
+
+preprocessed_data_without_mining:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/preprocessed_data_without_mining.csv
+    layer: intermediate
+
+preprocessed_data_19_21:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/preprocessed_data_19_21.csv
+    layer: intermediate
+
+preprocessed_data_not_19_21:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/preprocessed_data_not_19_21.csv
+    layer: intermediate
+
+preprocessed_data_without_australia:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/preprocessed_data_without_australia.csv
+    layer: intermediate
+
+encoded_data_without_australia:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/encoded_data_without_australia.csv
+    layer: intermediate
+
+preprocessed_data_with_australia:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/preprocessed_data_with_australia.csv
+    layer: intermediate
+
+encoded_data_with_australia:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/encoded_data_with_australia.csv
+    layer: intermediate
+
+encoded_data_19_21:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/encoded_data_19_21.csv
+    layer: intermediate
+
+encoded_data_not_19_21:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/encoded_data_not_19_21.csv
+    layer: intermediate
+
 encoded_data_with_type_classification:
     type: pandas.CSVDataSet
     filepath: data/02_intermediate/encoded_data_with_type_classification.csv
@@ -79,7 +139,25 @@ encoded_data_not_recycled:
     filepath: data/02_intermediate/encoded_data_not_recycled.csv
     layer: intermediate
 
+encoded_data_08_12_13:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/encoded_data_08_12_13.csv
+    layer: intermediate
 
+encoded_data_not_08_12_13:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/encoded_data_not_08_12_13.csv
+    layer: intermediate
+
+encoded_data_with_mining:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/encoded_data_with_mining.csv
+    layer: intermediate
+
+encoded_data_without_mining:
+    type: pandas.CSVDataSet
+    filepath: data/02_intermediate/encoded_data_without_mining.csv
+    layer: intermediate
 
 
 
