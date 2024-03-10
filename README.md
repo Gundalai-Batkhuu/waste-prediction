@@ -1,4 +1,4 @@
-# Monash datahack 2023
+# Commercial and household waste predictor for Australian cities and states
 
 ## Overview
 
