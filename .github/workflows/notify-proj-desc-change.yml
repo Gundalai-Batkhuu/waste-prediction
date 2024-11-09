@@ -5,9 +5,6 @@ on:
       - main
     paths:
       - 'project-description.md'
-  create:
-    paths:
-      - 'project-description.md'
 
 jobs:
   notify:
