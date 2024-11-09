@@ -134,7 +134,7 @@ The project follows the Kedro framework structure:
 ## Installation & Deployment
 - Poetry-based dependency management
 - Streamlit-based web application deployment
-- Containerization support
+- Containerisation support
 - Environment management
 
 ## Data Sources
