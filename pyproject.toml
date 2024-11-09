@@ -2,6 +2,7 @@
 package_name = "monash_datahack_2023"
 project_name = "Monash datahack 2023"
 project_version = "0.18.1"
+package_mode = false
 
 [tool.isort]
 multi_line_output = 3
@@ -20,3 +21,24 @@ addopts = """
 fail_under = 0
 show_missing = true
 exclude_lines = ["pragma: no cover", "raise NotImplementedError"]
+
+[tool.poetry]
+name = "waste-prediction"
+version = "0.1.0"
+description = ""
+authors = ["Gundalai-Batkhuu <gdbt0623@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+kedro = "^0.19.9"
+streamlit = "^1.29.1"
+joblib = "^1.3.2"
+scikit-learn = "^1.5.2"
+xgboost = "^2.1.2"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
