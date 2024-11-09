@@ -1,16 +1,18 @@
 import numpy as np
 import joblib
 import pandas as pd
+import os
 
 
 def encode(array):
     # Load the pre-trained LabelEncoder objects
-    jurisdiction_encoder = joblib.load('Jurisdiction_label_encoder.pkl')
-    substream_encoder = joblib.load('Sub_stream_name_label_encoder.pkl')
-    category_encoder = joblib.load('Category_label_encoder.pkl')
-    type_encoder = joblib.load('Type_label_encoder.pkl')
-    management_encoder = joblib.load('Management_label_encoder.pkl')
-    fate_encoder = joblib.load('Fate_label_encoder.pkl')
+    encoder_dir = os.path.join(os.path.dirname(__file__), 'encoders')
+    jurisdiction_encoder = joblib.load(os.path.join(encoder_dir, 'Jurisdiction_label_encoder.pkl'))
+    substream_encoder = joblib.load(os.path.join(encoder_dir, 'Sub_stream_name_label_encoder.pkl'))
+    category_encoder = joblib.load(os.path.join(encoder_dir, 'Category_label_encoder.pkl'))
+    type_encoder = joblib.load(os.path.join(encoder_dir, 'Type_label_encoder.pkl'))
+    management_encoder = joblib.load(os.path.join(encoder_dir, 'Management_label_encoder.pkl'))
+    fate_encoder = joblib.load(os.path.join(encoder_dir, 'Fate_label_encoder.pkl'))
 
     # Sample values to encode
     selected_jurisdiction = array[0]
