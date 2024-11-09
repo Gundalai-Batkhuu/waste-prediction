@@ -1,3 +1,10 @@
+---
+title: "Waste Prediction System for Australian Cities and States"
+publishedAt: "2024-11-08"
+summary: "A machine learning-based system designed to predict commercial and household waste generation across Australian cities and states."
+tags: "Machine Learning, Waste Management, Data Science"
+---
+
 # Commercial and Household Waste Predictor for Australian Cities and States
 
 ## Project Overview
