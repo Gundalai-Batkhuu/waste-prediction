@@ -134,7 +134,7 @@ The project follows the Kedro framework structure:
 ## Installation & Deployment
 - Poetry-based dependency management
 - Streamlit-based web application deployment
-- Containerisation support
+- Containerization support
 - Environment management
 
 ## Data Sources
@@ -143,4 +143,4 @@ The project follows the Kedro framework structure:
 - Regional waste management data
 - Historical waste generation records
 
-This project combines modern data engineering practices with advanced machine learning techniques to provide accurate waste prediction capabilities for Australian municipalities and states.
+This project combines modern data science practices with advanced machine learning techniques to provide accurate waste prediction capabilities for Australian municipalities and states.
