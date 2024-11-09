@@ -4,7 +4,10 @@ on:
     branches:
       - main
     paths:
-      - 'project-description.md'  # Update this path to your markdown file's location
+      - 'project-description.md'
+  create:
+    paths:
+      - 'project-description.md'
 
 jobs:
   notify:

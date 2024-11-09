@@ -32,13 +32,72 @@ A machine learning-based system designed to predict commercial and household was
 - Categorical variable encoding
 
 ### Machine Learning Models
-- Ensemble modeling approach combining:
-  - XGBoost
-  - LightGBM
-  - Random Forest
-- Model evaluation and validation
-- Hyperparameter optimization using GridSearchCV
-- Cross-validation techniques
+
+#### Ensemble Approach
+- Advanced ensemble modeling strategy combining:
+  - XGBoost (with categorical feature support)
+  - LightGBM (gradient boosting framework)
+  - Random Forest (bagging-based ensemble)
+  - Weighted average ensemble methodology for final predictions
+
+#### Model Configurations
+- **XGBoost Configuration**
+  - Objective: Squared Error Regression
+  - Learning Rate: 0.01
+  - Categorical Feature Support Enabled
+  - N_estimators: 500
+  - Hyperparameter Grid:
+    ```python
+    {
+        'min_child_weight': [1, 5, 10],
+        'gamma': [0.5, 1, 1.5, 2, 5],
+        'subsample': [0.6, 0.8, 1.0],
+        'colsample_bytree': [0.6, 0.8, 1.0],
+        'max_depth': [3, 4, 5]
+    }
+    ```
+
+- **LightGBM Optimization**
+  - Application: Regression
+  - Objective: Root Mean Squared Error
+  - Best Parameters (from GridSearchCV):
+    - Learning Rate: 0.3
+    - Max Bin: 200
+    - Max Depth: 5
+    - Min Data in Leaf: 20
+    - Num Leaves: 200
+
+#### Model Evaluation Framework
+- Cross-Validation:
+  - Stratified K-Fold validation
+  - Time-series based validation for temporal predictions
+- Metrics:
+  - R-squared (R²) for regression performance
+  - Root Mean Squared Error (RMSE)
+  - Mean Absolute Error (MAE)
+
+#### Advanced Features
+- Hyperparameter Optimization:
+  - GridSearchCV with parallel processing (n_jobs=4)
+  - Cross-validated scoring metrics
+  - Exhaustive parameter space exploration
+
+- Model Persistence:
+  - Serialization using joblib
+  - Standardized model saving protocol
+  - Integration with Streamlit deployment
+
+#### Time Series Components
+- Facebook Prophet Integration:
+  - Temporal feature engineering
+  - Trend and seasonality decomposition
+  - Future prediction capabilities
+
+#### Data Handling
+- Separate training approaches for:
+  - 2019 and 2021 data segments
+  - Mining vs non-mining waste
+  - Hazardous waste specific modeling (2008, 2012, 2013)
 
 ### Statistical Analysis
 - Hypothesis testing
